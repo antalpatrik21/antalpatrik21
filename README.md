@@ -1,4 +1,4 @@
-# Hi, I'm Patrick 👋
+# Hi, I'm Patrik 👋
 
 ![I'm working on AI projects that have everyday application. ](https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/ai-smb-og.jpg)
 
