@@ -12,7 +12,7 @@ I'm Patrik Antal from Hungary, and I do projects on machine learning and data sc
 - 📡 IoT 
 - ☕ Java
 - 🧬 Scientific background
-- 
+
 ## Facts: 
 - 🔭 I’m currently working on computer vision related image processing.
 - 💬 Ask me about any science related tech questions.   
