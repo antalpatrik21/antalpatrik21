@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Hi, I'm Patrik 👋
 
-You can use the [editor on GitHub](https://github.com/antalpatrik21/antalpatrik21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![I'm working on AI projects that have everyday application. ](https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/ai-smb-og.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Patrik Antal from Hungary, and I do projects on machine learning and data science in general. I am particularly interested in the everyday applications of data-driven technologies. 
 
-### Markdown
+## Skills:
+- 🐍 Python 
+- 👁‍🗨 Keras 
+-  ↗ TensorFlow 
+- 🔷 C++ 
+- 📡 IoT 
+- ☕ Java
+- 🧬 Scientific background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Facts: 
+- 🔭 I’m currently working on computer vision related image processing.
+- 💬 Ask me about any science related tech questions.   
+- 🌱 I’m currently learning TensorFlow and PyCharm  
+- ⚡ Fun fact: I can be a random quote generator if you ask my opinion about your personal life.  
 
-```markdown
-Syntax highlighted code block
+## Contact me:
+[<img src='https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2019/04/GitHub-Mark.png' alt='github' height='40'  width = '40'>](https://github.com/antalpatrik21)  [<img src='https://www.nicepng.com/png/detail/461-4616944_linkedin-logo-png-linked-in-icon-svg.png' alt='linkedin' height='40' width = '40'>](https://www.linkedin.com/in/www.linkedin.com/in/antal-patrik-9507b1205/)  [<img src='https://www.pngkey.com/png/detail/15-150195_gmail-comments-google-mail-logo-black-and-white.png' alt='gmail' height='40'  width = '40'>](antalpatrik2121@gmail.com) 
 
-# Header 1
-## Header 2
-### Header 3
+## Stats:  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antalpatrik21&hide=stars,issues,contribs&show_icons=true&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antalpatrik21&theme=radical)  
 
-- Bulleted
-- List
+## Languages used in repositories: 
+_NOTE: Top languages does not indicate my skill level in any single one of them, it simply shows that my prefered project format is Jupyter notebook._
 
-1. Numbered
-2. List
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antalpatrik21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antalpatrik21/antalpatrik21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
