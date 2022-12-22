@@ -7,8 +7,7 @@ I'm Patrik Antal from Hungary, and I do projects on machine learning and data sc
 ## Skills:
 - 🐍 Python 
 - 👁‍🗨 Keras 
--  ↗ TensorFlow 
-- 🔷 C++ 
+-  ↗ TensorFlow
 - 📡 IoT 
 - ☕ Java
 - 🧬 Scientific background
